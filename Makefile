@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Weekday
+PROJECT_NAME = Customer Billing System 
 
 # Output directory
 BUILD = build
